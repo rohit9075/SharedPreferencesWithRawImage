@@ -1,0 +1,150 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1ad076d645265c5ec6c0016bd522b057\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\4fb28fc7726918abe9a7f9ef99f08dec\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ad0025f56d9ebd4e0fa5fe05cbbc47e6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\42049946c0c4f091159ca23f72fc83f5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9c0b8c66b9800a49928316183b0101ef\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3a3423186a918fcdef1b7660a74958a2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\3a0b8da2224babe70e87954bfe51fa16\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0d292f01966d639865a93bad95e4cc9e\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\d84c851c33aaaa43742dd4017eefa852\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\9051df1a901ba71d1eba54643b129028\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:8:22-69
+application
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.android.support:design:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1ad076d645265c5ec6c0016bd522b057\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1ad076d645265c5ec6c0016bd522b057\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ad0025f56d9ebd4e0fa5fe05cbbc47e6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ad0025f56d9ebd4e0fa5fe05cbbc47e6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\42049946c0c4f091159ca23f72fc83f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\42049946c0c4f091159ca23f72fc83f5\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9c0b8c66b9800a49928316183b0101ef\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9c0b8c66b9800a49928316183b0101ef\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3a3423186a918fcdef1b7660a74958a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3a3423186a918fcdef1b7660a74958a2\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\3a0b8da2224babe70e87954bfe51fa16\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\3a0b8da2224babe70e87954bfe51fa16\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0d292f01966d639865a93bad95e4cc9e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0d292f01966d639865a93bad95e4cc9e\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\d84c851c33aaaa43742dd4017eefa852\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\d84c851c33aaaa43742dd4017eefa852\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\9051df1a901ba71d1eba54643b129028\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\9051df1a901ba71d1eba54643b129028\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:15:9-40
+activity#com.rohit.android.data.MainActivity
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.rohit.android.data.DetailActivity
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:parentActivityName
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:25:13-55
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:24:13-43
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:26:13-28:49
+	android:value
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:28:17-46
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:27:17-63
+activity#com.rohit.android.data.SigninActivity
+ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:30:9-37:20
+	android:parentActivityName
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:33:13-55
+	android:label
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml:31:13-43
+uses-sdk
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1ad076d645265c5ec6c0016bd522b057\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\design-24.2.1.aar\1ad076d645265c5ec6c0016bd522b057\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\4fb28fc7726918abe9a7f9ef99f08dec\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.2.1.aar\4fb28fc7726918abe9a7f9ef99f08dec\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ad0025f56d9ebd4e0fa5fe05cbbc47e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-v4-24.2.1.aar\ad0025f56d9ebd4e0fa5fe05cbbc47e6\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\42049946c0c4f091159ca23f72fc83f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-24.2.1.aar\42049946c0c4f091159ca23f72fc83f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9c0b8c66b9800a49928316183b0101ef\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-24.2.1.aar\9c0b8c66b9800a49928316183b0101ef\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3a3423186a918fcdef1b7660a74958a2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-fragment-24.2.1.aar\3a3423186a918fcdef1b7660a74958a2\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\3a0b8da2224babe70e87954bfe51fa16\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-ui-24.2.1.aar\3a0b8da2224babe70e87954bfe51fa16\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0d292f01966d639865a93bad95e4cc9e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-media-compat-24.2.1.aar\0d292f01966d639865a93bad95e4cc9e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\d84c851c33aaaa43742dd4017eefa852\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-core-utils-24.2.1.aar\d84c851c33aaaa43742dd4017eefa852\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\9051df1a901ba71d1eba54643b129028\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\support-compat-24.2.1.aar\9051df1a901ba71d1eba54643b129028\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Rohit\.gradle\caches\transforms-1\files-1.1\appcompat-v7-24.2.1.aar\c9a34b4ab4b93d9c8a8763e31bfac144\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android\Sqlite Exercies\Exercise Files\Ch02\02_02\SharedPreferencesWithRawImage\app\src\main\AndroidManifest.xml
